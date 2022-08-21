@@ -12,7 +12,7 @@
    ========================================================================== */
 
    html {
-    color: black;
+    color: #222;
     font-size: 1em;
     line-height: 1.4;
   }
@@ -372,14 +372,14 @@
   }
   
   .project-link {
-    background-color: #453E4F;
+    background-color: #F19494;
     padding: .75rem 3.75rem;
     border-radius: 30px;
-    color: #FFFFFF;
+    color: #453E4F;
   }
   
   .project-link:hover {
-    background-color: #CAC4D1;
+    background-color: #DBB8C2;
     color: #453E4F;
   }
   
