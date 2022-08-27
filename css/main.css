@@ -96,7 +96,7 @@
     font-size: 1em;
     font-family: 'Open Sans', sans-serif;
     color: #453E4F;
-    background-color: white;
+    background-color: black;
     /* Sometimes the default background for a browser isn't exactly white. Adding a default allows more consistency between browsers. */
   }
   
